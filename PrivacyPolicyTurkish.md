@@ -56,10 +56,10 @@ Bu Gizlilik Politikası zaman zaman güncellenebilir. Yapılan değişiklikler y
 
 Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, bot geliştiricisi ile iletişime geçebilirsiniz.  
 
-Email: anviella.iletisim@outlook.com  
+- Email: anviella.iletisim@outlook.com  
 
-Fluxer Profil: Anviella#0710  
+- Fluxer Profil: Anviella#0710  
 
-Yardim#6615 Destek Sunucusu: https://fluxer.gg/zMvD2AJO  
+- Yardim#6615 Destek Sunucusu: https://fluxer.gg/zMvD2AJO  
 
-Yardim#6615 Davet Linki: https://web.fluxer.app/oauth2/authorize?client_id=1495011981018891307&scope=bot&permissions=15772633886359551  
+- Yardim#6615 Davet Linki: https://web.fluxer.app/oauth2/authorize?client_id=1495011981018891307&scope=bot&permissions=15772633886359551  
