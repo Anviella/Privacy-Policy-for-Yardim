@@ -1,6 +1,5 @@
 ## Privacy Policy
-
-# This Privacy Policy explains how the Ticket Bot collects, uses, and protects user data.
+This Privacy Policy explains how the Ticket Bot collects, uses, and protects user data.
 
 # 1. Data Collected
 
