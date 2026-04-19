@@ -5,7 +5,8 @@ This Privacy Policy explains how the Yardim#6615's collects, uses, and protects 
 
 The Yardim#6615 only collects the minimum data necessary to perform its functions. The collected data includes:
 
--Server ID
+-Server ID 
+
 -Support Category ID 
 
 -Ticket (support request) numbers 
