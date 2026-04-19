@@ -25,7 +25,7 @@ To operate the ticket (support) system
 To manage and respond to user support requests
 To generate and review support transcripts when necessary
 
-The Ticket Bot does not use this data for any other purposes.
+The Yardim#6615 does not use this data for any other purposes.
 
 # 3. Data Sharing
 
@@ -37,7 +37,7 @@ Data is retained only for as long as necessary. Ticket content and transcripts a
 
 # 5. Data Security
 
-The Ticket Bot implements reasonable security measures to protect collected data. However, no method of data transmission over the internet can be guaranteed to be completely secure.
+The Yardim#6615 implements reasonable security measures to protect collected data. However, no method of data transmission over the internet can be guaranteed to be completely secure.
 
 # 6. Purpose of the Bot
 
