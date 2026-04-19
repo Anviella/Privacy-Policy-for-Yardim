@@ -58,7 +58,8 @@ This Privacy Policy may be updated from time to time. Any changes will become ef
 
 # 9. Contact
 
-If you have any questions regarding this Privacy Policy, you may contact the bot developer.
+If you have any questions regarding this Privacy Policy, you may contact the bot developer. 
+
 -Email: anviella.iletisim@outlook.com 
 
 -Fluxer Profile: Anviella#0710 
