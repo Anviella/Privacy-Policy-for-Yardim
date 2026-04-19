@@ -3,16 +3,16 @@ This Privacy Policy explains how the Yardim#6615's collects, uses, and protects 
 
 # 1. Data Collected
 
-The Ticket Bot only collects the minimum data necessary to perform its functions. The collected data includes:
+The Yardim#6615 only collects the minimum data necessary to perform its functions. The collected data includes:
 
-Server ID
-Support Category ID 
+-Server ID
+-Support Category ID 
 
-Ticket (support request) numbers 
+-Ticket (support request) numbers 
 
-Ticket (support request) content 
+-Ticket (support request) content 
 
-Ticket transcripts 
+-Ticket transcripts 
 
 This data is collected solely to ensure the proper functioning of the bot and to manage the support system.
 
