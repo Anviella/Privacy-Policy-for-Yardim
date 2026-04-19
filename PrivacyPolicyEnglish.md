@@ -59,7 +59,10 @@ This Privacy Policy may be updated from time to time. Any changes will become ef
 # 9. Contact
 
 If you have any questions regarding this Privacy Policy, you may contact the bot developer.
--Email: anviella.iletisim@outlook.com
--Fluxer Profile: Anviella#0710
--Yardim#6615's Support Server: https://fluxer.gg/zMvD2AJO
+-Email: anviella.iletisim@outlook.com 
+
+-Fluxer Profile: Anviella#0710 
+
+-Yardim#6615's Support Server: https://fluxer.gg/zMvD2AJO 
+
 -Yardim#6615's Invite Link: https://web.fluxer.app/oauth2/authorize?client_id=1495011981018891307&scope=bot&permissions=15772633886359551
