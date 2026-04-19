@@ -1,16 +1,16 @@
-# Privacy Policy
+## Privacy Policy
 
-This Privacy Policy explains how the Ticket Bot collects, uses, and protects user data.
+# This Privacy Policy explains how the Ticket Bot collects, uses, and protects user data.
 
-1. Data Collected
+# 1. Data Collected
 
-The Ticket Bot only collects the minimum data necessary to perform its functions. The collected data includes:
+#The Ticket Bot only collects the minimum data necessary to perform its functions. The collected data includes:
 
-Server ID
-Support Category ID
-Ticket (support request) numbers
-Ticket (support request) content
-Ticket transcripts
+#Server ID
+#Support Category ID
+#Ticket (support request) numbers
+#Ticket (support request) content
+#Ticket transcripts
 
 This data is collected solely to ensure the proper functioning of the bot and to manage the support system.
 
