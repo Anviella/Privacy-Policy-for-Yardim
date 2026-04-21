@@ -56,7 +56,7 @@ Bu Gizlilik Politikası zaman zaman güncellenebilir. Yapılan değişiklikler y
 
 Bu Gizlilik Politikası ile ilgili herhangi bir sorunuz varsa, bot geliştiricisi ile iletişime geçebilirsiniz.  
 
-- Email: anviella.iletisim@outlook.com  
+- Email: anviella.iletisim@outlook.com - info@yardim-bot.com
 
 - Fluxer Profil: Anviella#0710  
 
